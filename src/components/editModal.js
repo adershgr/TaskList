@@ -66,7 +66,7 @@ function EditModal({ closeModal, editTaskData }) {
             </div>
             <div className="flx-right mt-50">
               <button className="button" onClick={handleEditTask}>
-                Edit
+                Save
               </button>
             </div>
           </div>
